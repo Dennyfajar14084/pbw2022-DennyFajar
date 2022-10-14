@@ -1,0 +1,13 @@
+  <div>
+        <h1>Kontak saya</h1>
+        <form>
+            <label for="email">Email</label><br/>
+            <input type="email" name="email" placeholder="alamat email"/>
+            <br />
+            <label for="message">Pesan</label><br />
+            <textarea name="message" placeholder="Tulis pesan anda..." rows="4" cols="80"></textarea>
+            <br />
+            <br />
+            <input type="Submit" value="Kirim" />
+        </form>
+    </div>
